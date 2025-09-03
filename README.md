@@ -116,6 +116,6 @@ The tool maps fields from WorkWave to DoorDash as follows:
 
 ## Support
 
-For issues or questions, please contact the tool developer.
+For issues or questions, please contact the tool developer @ weezly@weezly.works
 
 Made with ❤️ in ~/Los_Angeles by weezly.works & his army of robots. ©2025 under the MIT license
